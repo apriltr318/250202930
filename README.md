@@ -4,8 +4,8 @@ Repository praktikum Sistem Operasi (os-202501), Program Studi Ilmu Komputer UPB
 flowchart TD
     User1[User 1] --> Software
     User2[User 2] --> Software
-    Usern[User n] --> Software
-    
+    Usern[User 3] --> Software
+
     Software --> Sys[System Softwares]
     Software --> App[Application Softwares]
 
